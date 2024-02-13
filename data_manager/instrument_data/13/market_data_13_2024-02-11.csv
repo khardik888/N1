@@ -1,0 +1,3 @@
+received_timestamp,last_price,security_id,tradable,mode,open,close,high,low,change_percent,change_absolute,last_update_time
+2024-02-11 00:21:27,21782.5,13,0,66,21727.0,21782.5,21804.45,21629.9,0.3,64.55,1707481810
+2024-02-11 00:21:47,21782.5,13,0,66,21727.0,21782.5,21804.45,21629.9,0.3,64.55,1707481810

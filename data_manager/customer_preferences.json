@@ -1,0 +1,23 @@
+[
+    {
+        "actionType": "ADD",
+        "modeType": "FULL",
+        "scripType": "INDEX",
+        "exchangeType": "NSE",
+        "scripId": "21"
+    },
+    {
+        "actionType": "ADD",
+        "modeType": "FULL",
+        "scripType": "INDEX",
+        "exchangeType": "NSE",
+        "scripId": "13"
+    },
+    {
+        "actionType": "ADD",
+        "modeType": "FULL",
+        "scripType": "INDEX",
+        "exchangeType": "NSE",
+        "scripId": "25"
+    }
+]
