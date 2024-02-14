@@ -1,5 +1,0 @@
-.idea/
-pmClient/__pycache__/
-.coverage
-tests/__pycache__/
-*.DS_Store

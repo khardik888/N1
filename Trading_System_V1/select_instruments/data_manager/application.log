@@ -1,8 +1,0 @@
-2024-02-06 21:14:52,296 - storage_manager - INFO - Updated file: security_master/current_master\security_master.csv
-2024-02-06 21:14:57,186 - storage_manager - INFO - Updated file: security_master/current_master\nse_security_master.csv
-2024-02-06 21:14:57,581 - storage_manager - INFO - Updated file: security_master/current_master\bse_security_master.csv
-2024-02-06 21:15:02,624 - storage_manager - INFO - Updated file: security_master/current_master\option_security_master.csv
-2024-02-06 21:15:02,693 - storage_manager - INFO - Updated file: security_master/current_master\future_security_master.csv
-2024-02-06 21:15:03,074 - storage_manager - INFO - Updated file: security_master/current_master\index_security_master.csv
-2024-02-06 21:15:04,100 - storage_manager - INFO - Updated file: security_master/current_master\equity_security_master.csv
-2024-02-06 21:15:04,846 - storage_manager - INFO - Updated file: security_master/current_master\etf_security_master.csv

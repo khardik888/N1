@@ -39,7 +39,7 @@ def enter_otp(driver):
             EC.element_to_be_clickable((By.CSS_SELECTOR, "span[role='presentation'] > button")))
         next_button.click()
     except TimeoutException:
-        logging.error("Next button not found. Please manually click the next button in the browser.")58
+        logging.error("Next button not found. Please manually click the next button in the browser.")
 
 
 class PaytmMoneyAuth:
